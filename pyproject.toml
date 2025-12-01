@@ -1,7 +1,7 @@
 [project]
 name = "gen-csv-test-files"
 version = "0.1.0"
-description = "Add your description here"
+description = "Generate CSV test files for validating data import/export pipelines."
 readme = "README.md"
 requires-python = ">=3.13"
 license = { text = "Apache-2.0" }
