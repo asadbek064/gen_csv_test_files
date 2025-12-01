@@ -1,0 +1,4 @@
+id,name,description,notes
+1,"Doe, John","Product A, B, C","Contains commas, quotes"
+2,"Smith, Jane","Item ""Special""","Has ""quoted"" text"
+3,"Johnson, Bob",Normal text,No special chars
